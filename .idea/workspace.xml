@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc850df6-3958-447f-b48b-c4ff87cfc290" name="Changes" comment="add files" />
+    <list default="true" id="fc850df6-3958-447f-b48b-c4ff87cfc290" name="Changes" comment="maven.yml update">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670614429986</updated>
-      <workItem from="1670614431274" duration="319000" />
+      <workItem from="1670614431274" duration="1083000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <created>1670614638089</created>
@@ -62,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670614638089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="maven.yml update">
+      <created>1670614840531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670614840531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="maven.yml update">
+      <created>1670614928885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670614928885</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+    <MESSAGE value="maven.yml update" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven.yml update" />
   </component>
 </project>

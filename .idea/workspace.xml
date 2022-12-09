@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="fc850df6-3958-447f-b48b-c4ff87cfc290" name="Changes" comment="maven.yml update">
       <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lab5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670614429986</updated>
-      <workItem from="1670614431274" duration="1411000" />
+      <workItem from="1670614431274" duration="2224000" />
     </task>
     <task id="LOCAL-00001" summary="add files">
       <created>1670614638089</created>
@@ -85,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670615531123</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="maven.yml update">
+      <created>1670616120699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670616120699</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
